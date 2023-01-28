@@ -1,1 +1,1 @@
-# Task1_AJS(Advanced JavaScript)
+# Task1_AJS
